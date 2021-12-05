@@ -4,7 +4,7 @@
 
 #### 國立台北教育大學 109學年度 視窗程式設計 期末專題
 
-#### 改寫自[尚学堂杨老师-java教学-java游戏制作-像素鸟游戏（Flappy Bird）](https://www.bilibili.com/video/BV1oc411h75E?p=1)
+<!-- #### 改寫自[尚学堂杨老师-java教学-java游戏制作-像素鸟游戏（Flappy Bird）](https://www.bilibili.com/video/BV1oc411h75E?p=1) -->
 
 #### src/com/bird/app/
 
