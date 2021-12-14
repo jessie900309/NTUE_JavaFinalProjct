@@ -6,6 +6,18 @@
 
 <!-- #### 改寫自[尚学堂杨老师-java教学-java游戏制作-像素鸟游戏（Flappy Bird）](https://www.bilibili.com/video/BV1oc411h75E?p=1) -->
 
+#### 畫面簡介
+
+|   封面   | ![](https://i.imgur.com/BTm0l7F.jpg) |          |
+|:--------:|:--------:|:--------:|
+|   P.01   |   P.02   |   P.03   |
+| ![](https://i.imgur.com/lmMNCTf.jpg) | ![](https://i.imgur.com/nbc1k0R.jpg) | ![](https://i.imgur.com/aOJzvmt.jpg) |
+|   P.04   |   P.05   |   P.06   |
+| ![](https://i.imgur.com/IR76Bm4.jpg) | ![](https://i.imgur.com/jwqyWaw.jpg) | ![](https://i.imgur.com/CwPcUbH.jpg) |
+|   P.07   |   P.08   |   P.09   |
+| ![](https://i.imgur.com/v6PgAln.jpg) | ![](https://i.imgur.com/NBCpBcw.jpg) | ![](https://i.imgur.com/6FlCbrF.jpg) |
+
+
 #### src/com/bird/app/
 
 * GameApp.java
